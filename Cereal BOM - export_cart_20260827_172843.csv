@@ -1,0 +1,14 @@
+Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C20089287,S6B-EH,JST,"Through Hole,P=2.5mm",,Connector Header 6 position 2.5mm Pitch 3A Right Angle -25℃~+85℃,yes,2,1,1,0.1963,0.39,https://www.lcsc.com/product-detail/C20089287.html
+2,C27834,0805W8F5101T5E,UNI-ROYAL,805,,5.1kΩ ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0113,1.13,https://www.lcsc.com/product-detail/C27834.html
+3,C2907219,FRC0805F1002TS,FOJAN,805,,10kΩ ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0035,0.35,https://www.lcsc.com/product-detail/C2907219.html
+4,C84681,CH340C,WCH,SOP-16,,Transceiver 2Mbps USB 2.0 SOP-16 Interface Controllers ,yes,1,1,1,0.5879,0.59,https://www.lcsc.com/product-detail/C84681.html
+5,C404027,TLV75533PDBVR,TI,SOT-23-5,,"3.3V Positive Fixed SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,5,5,5,0.1636,0.82,https://www.lcsc.com/product-detail/C404027.html
+6,C23630,CL10A225KO8NNNC,Samsung Electro-Mechanics,603,,2.2uF ±10% 16V Ceramic Capacitor X5R 0603,yes,50,50,50,0.0196,0.98,https://www.lcsc.com/product-detail/C23630.html
+7,C6119867,CGA0603X7R104K500JT,HRE,603,,100nF ±10% 50V Ceramic Capacitor X7R 0603,yes,100,100,100,0.0066,0.66,https://www.lcsc.com/product-detail/C6119867.html
+8,C963206,MK-12C02-G020,G-Switch,"SMD,6.6x1.4mm",,"Slide Switch SPDT 1A @ 6V Surface Mount, Right Angle Rectangular Columnar 6.6mm",yes,5,5,5,0.1245,0.62,https://www.lcsc.com/product-detail/C963206.html
+9,C22355736,XL-1005UBC,XINGLIGHT,402,,Blue 465nm LED Indication - Discrete 3.3V 0402,yes,50,50,50,0.008,0.4,https://www.lcsc.com/product-detail/C22355736.html
+10,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,,USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount,yes,5,5,5,0.1716,0.86,https://www.lcsc.com/product-detail/C165948.html
+,,,,,,,,,,,,6.8,
+,,,,,,,,,,,,$18.75 + shipping,
+,,,,,,,,,,,,$10.18 for PCB,
