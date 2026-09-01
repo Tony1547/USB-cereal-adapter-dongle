@@ -3152,7 +3152,7 @@
 			(uuid "052ab602-64bb-4915-8ac2-8c4d88dde54a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_CK_JS102011SAQN.step"
+		(model "/home/tony/Downloads/JS102011SAQN--3DModel-Eagle-1.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3160,7 +3160,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
