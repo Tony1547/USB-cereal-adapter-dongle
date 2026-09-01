@@ -10,12 +10,9 @@ Originally I accidentally used a 0201 capacitors when i meant to use 0603, and w
 
 <img width="515" height="599" alt="Screenshot_2026-08-27_03-43-29" src="https://github.com/user-attachments/assets/b82fec1b-ae12-48c8-adeb-356f7ea94593" />
 
-
-
 <img width="788" height="872" alt="Screenshot_2026-08-27_03-42-27" src="https://github.com/user-attachments/assets/f0a5f4c4-6cb5-4be6-84c8-5bf17b1d1f27" />
 
-
-<img width="497" height="574" alt="Screenshot_2026-08-27_03-42-09" src="https://github.com/user-attachments/assets/b01d57ed-4360-489e-99dc-3c3ad044f3fc" />
+<img width="682" height="745" alt="image" src="https://github.com/user-attachments/assets/5fc54894-8ee0-444e-a937-fe8e4f171857" />
 
 I used JST connectors for the sole reason that I think they look cool, is it the most practical? Probably not but very nice looking. The hole in the top right is to put it on some string and then onto a keychain, and the chess silkscreen is there because I love to play chess, really cool game imo. I plan to plug this into my laptop through a USB-C to USB-C cable, I usually carry one in my bag. (at the time of writing this only one of the USB-C ports work so I need to fix that at some point)
 
