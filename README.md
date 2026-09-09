@@ -4,7 +4,7 @@ USB-cereal-adapter-dongle
 
 I plan to make more PCB projects, so I'm making this to hopefully program them, also i hope to get better at soldering through this project 
 
-this dongle uses the CH340C to communicate from USB to UART, and can be hung from a small keychain with the hole in the corner 
+This dongle uses the CH340C to communicate from USB to UART, and can be hung from a small keychain with the hole in the corner, also includes some personalization on the back of things that relate to me or the ysws
 
 ----
 
