@@ -32,4 +32,4 @@ Next time I make something small like this I need to make a funnier shape, like 
 
 didn't add enough info about the project in the repo so I've been adding more little by little, 
 
-spent 30ish minutes fixing up the repo, adding missing 3d models and changing the size of some of the SMD parts in kicad to match my BOM
+spent 30ish minutes fixing up the repo, adding missing 3d models, updating pictures, and changing the size of some of the SMD parts in kicad to match my BOM
