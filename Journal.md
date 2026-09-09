@@ -25,3 +25,11 @@ I used the CH340C because its cheap and built the rest of the board around it, I
 Next time I make something small like this I need to make a funnier shape, like a doctor pepper can or a coffee, or smt. The main lesson of this project however for me is to better plan out when I work on projects so I don't end up being sleep deprived the next day... or maybe not, who knows. One more thing I want to keep in mind or at least practice in-between this PCB project and my next is packaging, I think this board could've definitely been smaller, and smaller is usually cheaper. I think.
 
 <img width="686" height="796" alt="Screenshot_2026-08-27_04-47-14" src="https://github.com/user-attachments/assets/54bc073c-2d70-42af-8cbb-2293fb16294c" />
+
+
+9/7
+-------
+
+didn't add enough info about the project in the repo so I've been adding more little by little, 
+
+spent 30ish minutes fixing up the repo, adding missing 3d models and changing the size of some of the SMD parts in kicad to match my BOM
